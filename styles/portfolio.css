@@ -2,7 +2,7 @@
 .inter-normal {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
-  font-style: normal;
+  font-style: bold;
   font-variation-settings: 
   "width" 34;
 }
@@ -70,36 +70,3 @@ nav ul li {
 }
 
 
-.section-title{
-    font-size: 42px;
-    font-weight: bold;
-    color: #252432;
-
-}
-.section-description{
-    font-size: 24px;
-    color: #252432;
-    text-align: top;
-    text-align: left;
-}
-.main{
-    max-width: 1140px;
-    margin: 0 auto;
-    padding: 150px;
-}
-.about{
-    display: flex;
-    justify-content: space-between;
-   text-align: left;
-   text-decoration-thickness: 500px 150px;
-    gap: 0 auto;
-}
-.banner-profile-pic{
-    width: 300px;
-    max-width: 100;
-    border-radius: 20px;
-}
-
-
-
-    

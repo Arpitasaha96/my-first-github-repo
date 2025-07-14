@@ -1,0 +1,19 @@
+
+.product-title{
+    font-size: 80px;
+    font-weight: bolder;
+    justify-content: center;
+}
+.secondary-bg{
+    background-color: #8885e2;
+}
+
+.main-product-section{
+    display: flex;
+    border: 10px;
+    gap: 0 auto;
+    padding: 150px 50px;
+    text-align: center;
+    margin-top: 130px;
+}
+
