@@ -1,0 +1,13 @@
+.focus{
+    display:grid;
+    text-align: center; 
+    image-rendering: 20px; 
+    border-radius: 10px;  
+   justify-items: auto;
+}
+.focus-image{
+    width: 900px;
+    height: 300px;
+    border-radius: 10px;
+  margin-top: 5px;
+}
