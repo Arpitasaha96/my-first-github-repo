@@ -1,0 +1,31 @@
+.touch{
+    display:flex;
+    grid-template-columns: 10px 10px;
+    background-color: rgb(210, 250, 237);
+     padding: 130px 100px;
+     gap: 100px;
+    text-size-adjust: 80px;
+    border-radius: 10px;
+}
+.touch-title{
+     font-size: 100px;
+     text-align: left;
+    font-weight: bold;
+    color: #000000;
+
+}
+.form-input[type="text"] {
+    height: 60px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+   width: 100;
+   padding: 10px 20px;
+   margin-bottom: 24px;
+   border: none;
+   
+}
+.touch-column{
+    width: 50%;
+
+}

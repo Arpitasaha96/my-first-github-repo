@@ -1,13 +1,16 @@
 .focus{
     display:grid;
+    padding: 80px;
+    margin-top: auto;
     text-align: center; 
     image-rendering: 20px; 
     border-radius: 10px;  
    justify-items: auto;
+   box-shadow: 5px 5px 5px 5px #aacbd8;;
 }
 .focus-image{
     width: 900px;
     height: 300px;
-    border-radius: 10px;
-  margin-top: 5px;
+    padding: 40px;
+    border-radius: 20px;
 }
